@@ -1,0 +1,5 @@
+[project]
+name = "Qt Python App"
+
+[tool.pyside6-project]
+files = [".gitignore", "README.md", "app/__init__.py", "app/app_controller.py", "app/ui/components/CounterView.qml", "tests/__init__.py", "tests/test_app_controller.py"]
